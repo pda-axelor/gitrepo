@@ -1,1 +1,2 @@
 This is the demo content if demo file 2.
+This is the second line of demo file 2.
